@@ -1,5 +1,7 @@
 ### Projeto de Checklists
 
+![Untitled](https://github.com/user-attachments/assets/48730bf4-a3ce-48bf-888b-aca12c8ff683)
+
 ## Tecnologias usadas: 
 
 <div style="display: inline-block">

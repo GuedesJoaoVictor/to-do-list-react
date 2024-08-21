@@ -19,6 +19,8 @@ Optei por usar no frontend React junto com o Tailwind CSS para criar um site res
 <p>Para o backend optei pelo Node.js juntamente com o TypeScript para uma tipagem estática assim garantindo maior confiabilidade no código.</p> 
 <p>No banco de dados optei pelo MongoDB, um banco de dados NoSQL flexivel e escalável.</p>
 
+<hr>
+
 ### Como rodar na sua máquina!
 
 <p>Para isso você precisa usar o comando</p>

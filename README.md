@@ -1,5 +1,5 @@
 ### Projeto de Checklists
-    ![image](https://github.com/user-attachments/assets/b9ee10fb-7e4c-4128-a536-37633997388e)
+    ![Untitled](https://github.com/user-attachments/assets/2e58a6b7-52c2-412b-b72e-e80fb856c87d)
 ## Tecnologias usadas: 
 
 <div style="display: inline-block">

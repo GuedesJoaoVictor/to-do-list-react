@@ -1,6 +1,6 @@
 ### Projeto de Checklists
 
-![Untitled](https://github.com/user-attachments/assets/48730bf4-a3ce-48bf-888b-aca12c8ff683)
+![Untitled](https://github.com/user-attachments/assets/0e183ae1-6afc-4a0f-97b6-8e39c74e6992)
 
 ## Tecnologias usadas: 
 
